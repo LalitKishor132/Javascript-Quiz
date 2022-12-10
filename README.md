@@ -1,3 +1,3 @@
 # Javascript-Quiz
-An Javascript quiz web app who made with help of Html ,CSS ,JAVASCRIPT 
+A Javascript multiple choice question answer quiz web application made with the help of Html, CSS, JAVASCRIPT
 
